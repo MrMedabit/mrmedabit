@@ -1,7 +1,7 @@
 # Welcome to my GitHub! Hope you find something interesting 👋.
 ## 🖼️ Background
 ### I'm Luis Flores, i'm a Software Developer from Durango, Mexico. I'm mainly proficient in backend development usign .Net, Laravel, Express, Flask and Django. I crave knowledge about programming even outside my comfort zone like Frontend Development, Data Science, Systems Programming, Embedded Programming, Game Development and more...
-### Reach me!
+## 🔗 Reach me!
 ### [Email](luis.dfc.98@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/luis-flores-covarrubias-0639b5187/)
 # 🧰 My Stack
