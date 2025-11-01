@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to my GitHub! Hope you find something interesting.
+- ## 🖼️ Background
+- ### I'm Luis Flores, i'm a Software Developer from Durango, Mexico. I'm mainly proficient in backend development usign .Net, Laravel, Express, Flask and Django. I crave knowledge about programming even outside my comfort zone like Data Science, Systems Programming, Embedded Programming, Game Development and more...
+- ## 🧰 My Stack
+- ## !(https://images.seeklogo.com/logo-png/27/2/flask-logo-png_seeklogo-273085.png) !(https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png) !(https://icon2.cleanpng.com/20180917/rgp/kisspng-javascript-logo-product-design-brand-1713939908433.webp) !(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png) !(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png) !(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png)
+=======================================================================================================================================================================================================================================================
+- I'm currently learning Rust although i can move comfortably in the language, i'm moving into the harder stuff combined with the use of Tauri for desktop applications.
